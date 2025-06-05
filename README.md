@@ -13,6 +13,8 @@
 2. New computer architectures.
 3. Software Engineering.
 4. Power markets, in especially the Brazilian one.
+5. Stochastic Dual Dynamic Programming.
+6. Embedded Software
 
 ## Previous Research:
 
@@ -21,3 +23,8 @@
 ## Volunteer Work:
 
 - Electrical Circuits Subject Monitor from 2018 to 2020.
+
+## Reach Me
+
+- LinkedIn Profile: [Pedro Vitor](https://www.linkedin.com/in/pedro-vitor-ferreira-gon%C3%A7alves-82416414a/?locale=en_US)
+- Email: pedrovitorfg.ene@gmail.com
