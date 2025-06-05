@@ -1,8 +1,10 @@
 # Pedro Vitor Ferreira Gonçalves
 
-## Roles:
+> "It’s not how many projects you start; It’s how many you finish. - Unkown Author
 
-1. Master Student - Instituto Tecnológico de Aeronáutica
+## Current Roles:
+
+1. Master Student @ Instituto Tecnológico de Aeronáutica
 2. Software Engineer @ Embraer
 
 ## Research interests:
