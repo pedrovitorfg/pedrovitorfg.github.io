@@ -1,5 +1,6 @@
 # Pedro Vitor Ferreira Gonçalves
 
+
 > "It’s not how many projects you start; It’s how many you finish." - Unkown Author
 
 ## Current Roles:
